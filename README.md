@@ -1,4 +1,4 @@
-# 📊 Custom Word Count (wc) Tool
+# 📊 Byte Me WC: Custom Word Count (wc) Tool
 
 ## 🚀 Overview
 A lightweight, custom implementation of the classic Unix wc command with core functionality for counting bytes, lines, and words.
