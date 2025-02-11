@@ -1,4 +1,3 @@
-import os
 import sys
 
 def get_file_size_lines(file_path):
