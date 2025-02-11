@@ -27,17 +27,17 @@ A lightweight, custom implementation of the classic Unix wc command with core fu
    ```
 2. Run the wc command:
    ```bash
-   wc -c <file>
-   wc -l <file>
-   wc -w <file>
+   my-wc -c <file>
+   my-wc -l <file>
+   my-wc -w <file>
    ```
 
 ### 🔍 Examples
 
     ```bash
-    wc -c README.md # Count bytes in a file
-    wc -l tests/test-1.txt # Count lines in a file
-    wc -w tests/test-1.txt # Count words in a file
+    my-wc -c README.md # Count bytes in a file
+    my-wc -l tests/test-1.txt # Count lines in a file
+    my-wc -w tests/test-1.txt # Count words in a file
     ```
 ### 🤝 Contributing
 Feel free to open issues or submit pull requests!
